@@ -1,0 +1,17 @@
+.bg-image {
+    background: url("https://cdn.pixabay.com/photo/2020/01/19/16/44/cat-4778387__340.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+}
+
+.text {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.footer {
+    background-color: gold;
+    height: 180px;
+}
